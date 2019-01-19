@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="d2faefb8-7251-4715-a35d-5276c0168e22" Title="CanalCocina3 Namespace" Url="html/N-CanalCocina3.htm">
+    <HelpTOCNode Id="8f9865f7-53bc-4cfb-813b-d6361f8d56b9" Title="CanalCocina Class" Url="html/T-CanalCocina3.CanalCocina.htm">
+      <HelpTOCNode Title="CanalCocina Members" Url="html/AllMembers.T-CanalCocina3.CanalCocina.htm" />
+      <HelpTOCNode Id="747dbef0-cb5f-48a8-99f4-6b9cd525070e" Title="CanalCocina Methods" Url="html/Methods.T-CanalCocina3.CanalCocina.htm">
+        <HelpTOCNode Title="CreateProgramFromHtmlNode Method " Url="html/M-CanalCocina3.CanalCocina.CreateProgramFromHtmlNode.htm" />
+        <HelpTOCNode Title="Get Method " Url="html/M-CanalCocina3.CanalCocina.Get.htm" />
+        <HelpTOCNode Title="GetProgramsFromHtml Method " Url="html/M-CanalCocina3.CanalCocina.GetProgramsFromHtml.htm" />
+        <HelpTOCNode Title="GetRawHtmlPageProgramation Method " Url="html/M-CanalCocina3.CanalCocina.GetRawHtmlPageProgramation.htm" />
+        <HelpTOCNode Title="Init Method " Url="html/M-CanalCocina3.CanalCocina.Init.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="376b93d1-3c29-491c-806f-252fe00affa7" Title="Program Class" Url="html/T-CanalCocina3.Program.htm">
+      <HelpTOCNode Title="Program Members" Url="html/AllMembers.T-CanalCocina3.Program.htm" />
+      <HelpTOCNode Id="23a03d4a-d981-440a-b89a-bda401c9c787" Title="Program Constructor " Url="html/Overload-CanalCocina3.Program.-ctor.htm">
+        <HelpTOCNode Title="Program Constructor " Url="html/M-CanalCocina3.Program.-ctor.htm" />
+        <HelpTOCNode Title="Program Constructor (Nullable(DateTime), Nullable(DateTime), String, String, String)" Url="html/M-CanalCocina3.Program.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="761539de-10d7-42a1-920e-969af31bc868" Title="Program Fields" Url="html/Fields.T-CanalCocina3.Program.htm">
+        <HelpTOCNode Title="Category Field" Url="html/F-CanalCocina3.Program.Category.htm" />
+        <HelpTOCNode Title="Chapter Field" Url="html/F-CanalCocina3.Program.Chapter.htm" />
+        <HelpTOCNode Title="Desc Field" Url="html/F-CanalCocina3.Program.Desc.htm" />
+        <HelpTOCNode Title="Session Field" Url="html/F-CanalCocina3.Program.Session.htm" />
+        <HelpTOCNode Title="Start Field" Url="html/F-CanalCocina3.Program.Start.htm" />
+        <HelpTOCNode Title="Stop Field" Url="html/F-CanalCocina3.Program.Stop.htm" />
+        <HelpTOCNode Title="Title Field" Url="html/F-CanalCocina3.Program.Title.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1195c06c-387a-4a35-b6bb-56937862ff71" Title="Program Methods" Url="html/Methods.T-CanalCocina3.Program.htm">
+        <HelpTOCNode Title="CleanXmlString Method " Url="html/M-CanalCocina3.Program.CleanXmlString.htm" />
+        <HelpTOCNode Title="CompareTo Method " Url="html/M-CanalCocina3.Program.CompareTo.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="CanalCocina class">
+    <HelpKINode Title="CanalCocina Class" Url="html/T-CanalCocina3.CanalCocina.htm" />
+    <HelpKINode Title="CanalCocina Members" Url="html/AllMembers.T-CanalCocina3.CanalCocina.htm" />
+    <HelpKINode Title="about CanalCocina class" Url="html/T-CanalCocina3.CanalCocina.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CanalCocina3.CanalCocina.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CanalCocina3.CanalCocina.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CanalCocina.CreateProgramFromHtmlNode method" Url="html/M-CanalCocina3.CanalCocina.CreateProgramFromHtmlNode.htm" />
+  <HelpKINode Title="CanalCocina.Get method" Url="html/M-CanalCocina3.CanalCocina.Get.htm" />
+  <HelpKINode Title="CanalCocina.GetProgramsFromHtml method" Url="html/M-CanalCocina3.CanalCocina.GetProgramsFromHtml.htm" />
+  <HelpKINode Title="CanalCocina.GetRawHtmlPageProgramation method" Url="html/M-CanalCocina3.CanalCocina.GetRawHtmlPageProgramation.htm" />
+  <HelpKINode Title="CanalCocina.Init method" Url="html/M-CanalCocina3.CanalCocina.Init.htm" />
+  <HelpKINode Title="CanalCocina3 namespace" Url="html/N-CanalCocina3.htm" />
+  <HelpKINode Title="CanalCocina3.CanalCocina class">
+    <HelpKINode Title="CanalCocina Class" Url="html/T-CanalCocina3.CanalCocina.htm" />
+    <HelpKINode Title="CanalCocina Members" Url="html/AllMembers.T-CanalCocina3.CanalCocina.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CanalCocina3.Program class">
+    <HelpKINode Title="Program Class" Url="html/T-CanalCocina3.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-CanalCocina3.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Category field" Url="html/F-CanalCocina3.Program.Category.htm" />
+  <HelpKINode Title="Chapter field" Url="html/F-CanalCocina3.Program.Chapter.htm" />
+  <HelpKINode Title="CleanXmlString method" Url="html/M-CanalCocina3.Program.CleanXmlString.htm" />
+  <HelpKINode Title="CompareTo method" Url="html/M-CanalCocina3.Program.CompareTo.htm" />
+  <HelpKINode Title="CreateProgramFromHtmlNode method" Url="html/M-CanalCocina3.CanalCocina.CreateProgramFromHtmlNode.htm" />
+  <HelpKINode Title="Desc field" Url="html/F-CanalCocina3.Program.Desc.htm" />
+  <HelpKINode Title="Get method" Url="html/M-CanalCocina3.CanalCocina.Get.htm" />
+  <HelpKINode Title="GetProgramsFromHtml method" Url="html/M-CanalCocina3.CanalCocina.GetProgramsFromHtml.htm" />
+  <HelpKINode Title="GetRawHtmlPageProgramation method" Url="html/M-CanalCocina3.CanalCocina.GetRawHtmlPageProgramation.htm" />
+  <HelpKINode Title="Init method" Url="html/M-CanalCocina3.CanalCocina.Init.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/T-CanalCocina3.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-CanalCocina3.Program.htm" />
+    <HelpKINode Title="about Program class" Url="html/T-CanalCocina3.Program.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CanalCocina3.Program.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-CanalCocina3.Program.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-CanalCocina3.Program.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CanalCocina3.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Category field" Url="html/F-CanalCocina3.Program.Category.htm" />
+  <HelpKINode Title="Program.Chapter field" Url="html/F-CanalCocina3.Program.Chapter.htm" />
+  <HelpKINode Title="Program.CleanXmlString method" Url="html/M-CanalCocina3.Program.CleanXmlString.htm" />
+  <HelpKINode Title="Program.CompareTo method" Url="html/M-CanalCocina3.Program.CompareTo.htm" />
+  <HelpKINode Title="Program.Desc field" Url="html/F-CanalCocina3.Program.Desc.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/Overload-CanalCocina3.Program.-ctor.htm" />
+  <HelpKINode Title="Program.Session field" Url="html/F-CanalCocina3.Program.Session.htm" />
+  <HelpKINode Title="Program.Start field" Url="html/F-CanalCocina3.Program.Start.htm" />
+  <HelpKINode Title="Program.Stop field" Url="html/F-CanalCocina3.Program.Stop.htm" />
+  <HelpKINode Title="Program.Title field" Url="html/F-CanalCocina3.Program.Title.htm" />
+  <HelpKINode Title="Session field" Url="html/F-CanalCocina3.Program.Session.htm" />
+  <HelpKINode Title="Start field" Url="html/F-CanalCocina3.Program.Start.htm" />
+  <HelpKINode Title="Stop field" Url="html/F-CanalCocina3.Program.Stop.htm" />
+  <HelpKINode Title="Title field" Url="html/F-CanalCocina3.Program.Title.htm" />
+</HelpKI>
